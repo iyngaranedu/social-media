@@ -17,7 +17,7 @@
         <t-content-card :width="1" color="solid-yellow">
             <template #title>
                 <div class="mb-2 justify-center">
-                    SAS Sport (My Page)
+                    SAS Sport (My Page) <a target="_blank" href="https://www.facebook.com/SASSportNZ/"> (View) </a>
                 </div>
             </template>
             <template #subTitle>
@@ -117,7 +117,7 @@
           <t-content-card :width="1">
               <template #title>
                   <div class="mb-2 justify-center">
-                      Aimn Oceania (Competitor)
+                      Aimn Oceania (Competitor) <a target="_blank" href="https://www.facebook.com/aimnoceania/">(View)</a>
                   </div>
               </template>
               <template #subTitle>
@@ -216,7 +216,7 @@
           <t-content-card :width="1">
               <template #title>
                   <div class="mb-2 justify-center">
-                      Fearless.Wanaka (Competitor)
+                      Fearless.Wanaka (Competitor) <a target="_blank" href="https://www.facebook.com/fearless.wanaka/">(View)</a>
                   </div>
               </template>
               <template #subTitle>

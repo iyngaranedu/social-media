@@ -87,7 +87,6 @@
                   v-if="registerButton"
                   :class="{ 'opacity-25': form.processing }"
                   :color="registerButtonColor"
-                  :link="route('register')"
                   :radius="3"
                   type="button"
               >
